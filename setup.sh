@@ -1,3 +1,4 @@
+#!/bin/sh
 alias ls="ls --color"
 alias lt="ls -lth"
 alias l1="ls -1"
